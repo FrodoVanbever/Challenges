@@ -1,0 +1,43 @@
+  File "password-evolution.py", line 12
+    return 'Welcome to the hands-on lab for an evolution of password
+                                                                   ^
+SyntaxError: EOL while scanning string literal
+  File "password-evolution.py", line 12
+    return 'Welcome to the hands-on lab for an evolution of password
+                                                                   ^
+SyntaxError: EOL while scanning string literal
+  File "password-evolution.py", line 12
+    return 'Welcome to the hands-on lab for an evolution of password
+                                                                   ^
+SyntaxError: EOL while scanning string literal
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2021 12:48:23] "[37mGET / HTTP/1.1[0m" 200 -
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2021 12:53:09] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 12:53:30] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 12:53:47] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 12:53:58] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2021 12:59:21] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 12:59:31] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 12:59:41] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 13:00:16] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 13:00:36] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 13:00:49] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 13:01:07] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2021 13:01:18] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -

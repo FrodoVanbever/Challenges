@@ -1,0 +1,27 @@
+[
+    {
+        "": 0.0,
+        "name": "Alex",
+        "email": "alex@student.odisee.be"
+    },
+    {
+        "": 1.0,
+        "name": "Amber",
+        "email": "amber@student.odisee.be"
+    },
+    {
+        "": 2.0,
+        "name": "Gary",
+        "email": "garry@student.odisee.be"
+    },
+    {
+        "": 3.0,
+        "name": "Rose",
+        "email": "rose@student.odisee.be"
+    },
+    {
+        "": 4.0,
+        "name": "Gabriela",
+        "email": "gabriela@student.odisee.be"
+    }
+]
